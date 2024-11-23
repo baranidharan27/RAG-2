@@ -1,0 +1,21 @@
+# Core Dependencies
+fastapi
+uvicorn
+pymongo
+python-dotenv
+sentence-transformers
+faiss-cpu
+transformers
+torch
+streamlit
+streamlit-chat
+aiofiles
+PyPDF2
+python-docx
+docx
+langchain
+python-multipart
+langgraph  # Replace with the correct version
+
+# Optional Dependencies (for Llama.cpp integration)
+# These may require separate installation steps
